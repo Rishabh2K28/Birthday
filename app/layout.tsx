@@ -5,7 +5,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Birthday Surprise',
-  description: 'Created with v0',
+  description: 'Created with ❤️ for My Love',
 }
 
 export default function RootLayout({
